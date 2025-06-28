@@ -152,10 +152,10 @@ export default function PasswordGenerator({ dict, currentLocale }: Props) {
     try {
       await navigator.clipboard.writeText(password);
       setIsCopied(true);
-      toast({
-        title: dict.messages.copySuccess,
-        description: dict.messages.copyDescription,
-      });
+      // toast({
+      //   title: dict.messages.copySuccess,
+      //   description: dict.messages.copyDescription,
+      // });
 
       // Возвращаем состояние через 2 секунды
       setTimeout(() => {
