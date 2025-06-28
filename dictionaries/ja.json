@@ -1,0 +1,35 @@
+{
+  "title": "パスワード生成器",
+  "meta": {
+    "title": "オンラインパスワード生成器 - 安全なパスワード無料",
+    "description": "オンラインで強力なパスワードを作成。長さと文字タイプをカスタマイズ。リアルタイム強度チェック。高速、安全、無料。",
+    "keywords": "パスワード生成器, パスワード作成, 安全なパスワード, 強力なパスワードオンライン"
+  },
+  "buttons": {
+    "generate": "生成",
+    "copy": "コピー",
+    "copied": "コピーしました!"
+  },
+  "settings": {
+    "length": "パスワードの長さ",
+    "symbols": "文字",
+    "uppercase": "大文字 (A-Z)",
+    "lowercase": "小文字 (a-z)",
+    "numbers": "数字 (0-9)",
+    "specialChars": "特殊文字 (!@#$%^&*)",
+    "readable": "読みやすい"
+  },
+  "strength": {
+    "weak": "弱い",
+    "medium": "普通",
+    "strong": "強い",
+    "label": "パスワード強度"
+  },
+  "messages": {
+    "copySuccess": "✨ コピーしました!",
+    "copyDescription": "パスワードをクリップボードにコピーしました",
+    "error": "エラー",
+    "generateFirst": "まずパスワードを生成してください",
+    "copyFailed": "パスワードのコピーに失敗しました"
+  }
+}

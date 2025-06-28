@@ -1,0 +1,35 @@
+{
+  "title": "Generatore di Password",
+  "meta": {
+    "title": "Generatore di Password Online - Password Sicure Gratis",
+    "description": "Crea password forti online. Personalizza lunghezza e tipi di caratteri. Controllo della forza in tempo reale. Veloce, sicuro, gratuito.",
+    "keywords": "generatore di password, creare password, password sicura, password forte online"
+  },
+  "buttons": {
+    "generate": "Genera",
+    "copy": "Copia",
+    "copied": "Copiato!"
+  },
+  "settings": {
+    "length": "Lunghezza Password",
+    "symbols": "caratteri",
+    "uppercase": "Lettere Maiuscole (A-Z)",
+    "lowercase": "Lettere Minuscole (a-z)",
+    "numbers": "Numeri (0-9)",
+    "specialChars": "Caratteri Speciali (!@#$%^&*)",
+    "readable": "Facile da Leggere"
+  },
+  "strength": {
+    "weak": "Debole",
+    "medium": "Media",
+    "strong": "Forte",
+    "label": "Forza della Password"
+  },
+  "messages": {
+    "copySuccess": "✨ Copiato!",
+    "copyDescription": "Password copiata negli appunti",
+    "error": "Errore",
+    "generateFirst": "Genera prima una password",
+    "copyFailed": "Copia della password fallita"
+  }
+}

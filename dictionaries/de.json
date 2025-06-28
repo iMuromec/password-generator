@@ -1,0 +1,35 @@
+{
+  "title": "Passwort Generator",
+  "meta": {
+    "title": "Passwort Generator Online - Sichere Passwörter Kostenlos",
+    "description": "Erstellen Sie starke Passwörter online. Anpassung von Länge und Zeichentypen. Echtzeit-Stärkeprüfung. Schnell, sicher, kostenlos.",
+    "keywords": "passwort generator, passwort erstellen, sicheres passwort, starkes passwort online"
+  },
+  "buttons": {
+    "generate": "Generieren",
+    "copy": "Kopieren",
+    "copied": "Kopiert!"
+  },
+  "settings": {
+    "length": "Passwort Länge",
+    "symbols": "Zeichen",
+    "uppercase": "Großbuchstaben (A-Z)",
+    "lowercase": "Kleinbuchstaben (a-z)",
+    "numbers": "Zahlen (0-9)",
+    "specialChars": "Sonderzeichen (!@#$%^&*)",
+    "readable": "Leicht zu Lesen"
+  },
+  "strength": {
+    "weak": "Schwach",
+    "medium": "Mittel",
+    "strong": "Stark",
+    "label": "Passwort Stärke"
+  },
+  "messages": {
+    "copySuccess": "✨ Kopiert!",
+    "copyDescription": "Passwort in die Zwischenablage kopiert",
+    "error": "Fehler",
+    "generateFirst": "Erst ein Passwort generieren",
+    "copyFailed": "Passwort kopieren fehlgeschlagen"
+  }
+}

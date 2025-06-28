@@ -1,0 +1,35 @@
+{
+  "title": "Şifre Oluşturucu",
+  "meta": {
+    "title": "Çevrimiçi Şifre Oluşturucu - Ücretsiz Güvenli Şifreler",
+    "description": "Çevrimiçi güçlü şifreler oluşturun. Uzunluk ve karakter türlerini özelleştirin. Gerçek zamanlı güç kontrolü. Hızlı, güvenli, ücretsiz.",
+    "keywords": "şifre oluşturucu, şifre oluştur, güvenli şifre, güçlü şifre çevrimiçi"
+  },
+  "buttons": {
+    "generate": "Oluştur",
+    "copy": "Kopyala",
+    "copied": "Kopyalandı!"
+  },
+  "settings": {
+    "length": "Şifre Uzunluğu",
+    "symbols": "karakter",
+    "uppercase": "Büyük Harfler (A-Z)",
+    "lowercase": "Küçük Harfler (a-z)",
+    "numbers": "Sayılar (0-9)",
+    "specialChars": "Özel Karakterler (!@#$%^&*)",
+    "readable": "Okunabilir"
+  },
+  "strength": {
+    "weak": "Zayıf",
+    "medium": "Orta",
+    "strong": "Güçlü",
+    "label": "Şifre Gücü"
+  },
+  "messages": {
+    "copySuccess": "✨ Kopyalandı!",
+    "copyDescription": "Şifre panoya kopyalandı",
+    "error": "Hata",
+    "generateFirst": "Önce bir şifre oluşturun",
+    "copyFailed": "Şifre kopyalanamadı"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Pambangkit Tembung Kunci",
+  "meta": {
+    "title": "Pambangkit Tembung Kunci Online - Tembung Kunci Aman Gratis",
+    "description": "Gawe tembung kunci sing kuwat online. Pangaturan dawa lan jinis karakter. Pamriksa kekuatan sing langsung. Cepet, aman, gratis.",
+    "keywords": "pambangkit tembung kunci, gawe tembung kunci, tembung kunci aman, tembung kunci kuwat online"
+  },
+  "buttons": {
+    "generate": "Gawe",
+    "copy": "Salin",
+    "copied": "Wis Disalin!"
+  },
+  "settings": {
+    "length": "Dawa Tembung Kunci",
+    "symbols": "karakter",
+    "uppercase": "Aksara Gedhe (A-Z)",
+    "lowercase": "Aksara Cilik (a-z)",
+    "numbers": "Angka (0-9)",
+    "specialChars": "Karakter Khusus (!@#$%^&*)",
+    "readable": "Gampang Diwaca"
+  },
+  "strength": {
+    "weak": "Lemah",
+    "medium": "Sedeng",
+    "strong": "Kuwat",
+    "label": "Kekuwatan Tembung Kunci"
+  },
+  "messages": {
+    "copySuccess": "✨ Wis Disalin!",
+    "copyDescription": "Tembung kunci wis disalin menyang clipboard",
+    "error": "Ana Masalah",
+    "generateFirst": "Gawe tembung kunci dhisik",
+    "copyFailed": "Gagal nyalin tembung kunci"
+  }
+}

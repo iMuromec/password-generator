@@ -1,0 +1,35 @@
+{
+  "title": "비밀번호 생성기",
+  "meta": {
+    "title": "온라인 비밀번호 생성기 - 무료 보안 비밀번호",
+    "description": "온라인에서 강력한 비밀번호를 만드세요. 길이와 문자 유형을 사용자 정의하세요. 실시간 강도 확인. 빠르고 안전하며 무료입니다.",
+    "keywords": "비밀번호 생성기, 비밀번호 만들기, 보안 비밀번호, 강력한 비밀번호 온라인"
+  },
+  "buttons": {
+    "generate": "생성",
+    "copy": "복사",
+    "copied": "복사됨!"
+  },
+  "settings": {
+    "length": "비밀번호 길이",
+    "symbols": "문자",
+    "uppercase": "대문자 (A-Z)",
+    "lowercase": "소문자 (a-z)",
+    "numbers": "숫자 (0-9)",
+    "specialChars": "특수문자 (!@#$%^&*)",
+    "readable": "읽기 쉬운"
+  },
+  "strength": {
+    "weak": "약함",
+    "medium": "보통",
+    "strong": "강함",
+    "label": "비밀번호 강도"
+  },
+  "messages": {
+    "copySuccess": "✨ 복사됨!",
+    "copyDescription": "비밀번호가 클립보드에 복사되었습니다",
+    "error": "오류",
+    "generateFirst": "먼저 비밀번호를 생성하세요",
+    "copyFailed": "비밀번호 복사 실패"
+  }
+}

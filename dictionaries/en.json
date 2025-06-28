@@ -1,0 +1,35 @@
+{
+  "title": "Password Generator",
+  "meta": {
+    "title": "Password Generator Online - Secure Passwords Free",
+    "description": "Create strong passwords online. Customize length, character types. Real-time strength checking. Fast, secure, free.",
+    "keywords": "password generator, create password, secure password, strong password online"
+  },
+  "buttons": {
+    "generate": "Generate",
+    "copy": "Copy",
+    "copied": "Copied!"
+  },
+  "settings": {
+    "length": "Password Length",
+    "symbols": "characters",
+    "uppercase": "Uppercase Letters (A-Z)",
+    "lowercase": "Lowercase Letters (a-z)",
+    "numbers": "Numbers (0-9)",
+    "specialChars": "Special Characters (!@#$%^&*)",
+    "readable": "Easy to Read"
+  },
+  "strength": {
+    "weak": "Weak",
+    "medium": "Medium",
+    "strong": "Strong",
+    "label": "Password Strength"
+  },
+  "messages": {
+    "copySuccess": "✨ Copied!",
+    "copyDescription": "Password copied to clipboard",
+    "error": "Error",
+    "generateFirst": "Generate a password first",
+    "copyFailed": "Failed to copy password"
+  }
+}

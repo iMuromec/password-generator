@@ -1,0 +1,35 @@
+{
+  "title": "密码生成器",
+  "meta": {
+    "title": "在线密码生成器 - 免费安全密码",
+    "description": "在线创建强密码。自定义长度、字符类型。实时强度检查。快速、安全、免费。",
+    "keywords": "密码生成器, 创建密码, 安全密码, 强密码在线"
+  },
+  "buttons": {
+    "generate": "生成",
+    "copy": "复制",
+    "copied": "已复制!"
+  },
+  "settings": {
+    "length": "密码长度",
+    "symbols": "字符",
+    "uppercase": "大写字母 (A-Z)",
+    "lowercase": "小写字母 (a-z)",
+    "numbers": "数字 (0-9)",
+    "specialChars": "特殊字符 (!@#$%^&*)",
+    "readable": "易读密码"
+  },
+  "strength": {
+    "weak": "弱",
+    "medium": "中等",
+    "strong": "强",
+    "label": "密码强度"
+  },
+  "messages": {
+    "copySuccess": "✨ 已复制!",
+    "copyDescription": "密码已复制到剪贴板",
+    "error": "错误",
+    "generateFirst": "请先生成密码",
+    "copyFailed": "复制密码失败"
+  }
+}

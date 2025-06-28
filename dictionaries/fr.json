@@ -1,0 +1,35 @@
+{
+  "title": "Générateur de Mots de Passe",
+  "meta": {
+    "title": "Générateur de Mots de Passe en Ligne - Mots de Passe Sécurisés Gratuits",
+    "description": "Créez des mots de passe forts en ligne. Personnalisez la longueur et les types de caractères. Vérification de la force en temps réel. Rapide, sécurisé, gratuit.",
+    "keywords": "générateur de mots de passe, créer mot de passe, mot de passe sécurisé, mot de passe fort en ligne"
+  },
+  "buttons": {
+    "generate": "Générer",
+    "copy": "Copier",
+    "copied": "Copié!"
+  },
+  "settings": {
+    "length": "Longueur du Mot de Passe",
+    "symbols": "caractères",
+    "uppercase": "Lettres Majuscules (A-Z)",
+    "lowercase": "Lettres Minuscules (a-z)",
+    "numbers": "Chiffres (0-9)",
+    "specialChars": "Caractères Spéciaux (!@#$%^&*)",
+    "readable": "Facile à Lire"
+  },
+  "strength": {
+    "weak": "Faible",
+    "medium": "Moyen",
+    "strong": "Fort",
+    "label": "Force du Mot de Passe"
+  },
+  "messages": {
+    "copySuccess": "✨ Copié!",
+    "copyDescription": "Mot de passe copié dans le presse-papiers",
+    "error": "Erreur",
+    "generateFirst": "Générez d'abord un mot de passe",
+    "copyFailed": "Échec de la copie du mot de passe"
+  }
+}

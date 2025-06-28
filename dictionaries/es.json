@@ -1,0 +1,35 @@
+{
+  "title": "Generador de Contraseñas",
+  "meta": {
+    "title": "Generador de Contraseñas Online - Contraseñas Seguras Gratis",
+    "description": "Crea contraseñas fuertes online. Personaliza longitud, tipos de caracteres. Verificación de fuerza en tiempo real. Rápido, seguro, gratis.",
+    "keywords": "generador de contraseñas, crear contraseña, contraseña segura, contraseña fuerte online"
+  },
+  "buttons": {
+    "generate": "Generar",
+    "copy": "Copiar",
+    "copied": "¡Copiado!"
+  },
+  "settings": {
+    "length": "Longitud de Contraseña",
+    "symbols": "caracteres",
+    "uppercase": "Letras Mayúsculas (A-Z)",
+    "lowercase": "Letras Minúsculas (a-z)",
+    "numbers": "Números (0-9)",
+    "specialChars": "Caracteres Especiales (!@#$%^&*)",
+    "readable": "Fácil de Leer"
+  },
+  "strength": {
+    "weak": "Débil",
+    "medium": "Medio",
+    "strong": "Fuerte",
+    "label": "Fuerza de la Contraseña"
+  },
+  "messages": {
+    "copySuccess": "✨ ¡Copiado!",
+    "copyDescription": "Contraseña copiada al portapapeles",
+    "error": "Error",
+    "generateFirst": "Genera una contraseña primero",
+    "copyFailed": "Error al copiar la contraseña"
+  }
+}

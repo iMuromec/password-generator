@@ -1,0 +1,35 @@
+{
+  "title": "Gerador de Senhas",
+  "meta": {
+    "title": "Gerador de Senhas Online - Senhas Seguras Grátis",
+    "description": "Crie senhas fortes online. Personalize comprimento e tipos de caracteres. Verificação de força em tempo real. Rápido, seguro, grátis.",
+    "keywords": "gerador de senhas, criar senha, senha segura, senha forte online"
+  },
+  "buttons": {
+    "generate": "Gerar",
+    "copy": "Copiar",
+    "copied": "Copiado!"
+  },
+  "settings": {
+    "length": "Comprimento da Senha",
+    "symbols": "caracteres",
+    "uppercase": "Letras Maiúsculas (A-Z)",
+    "lowercase": "Letras Minúsculas (a-z)",
+    "numbers": "Números (0-9)",
+    "specialChars": "Caracteres Especiais (!@#$%^&*)",
+    "readable": "Fácil de Ler"
+  },
+  "strength": {
+    "weak": "Fraca",
+    "medium": "Média",
+    "strong": "Forte",
+    "label": "Força da Senha"
+  },
+  "messages": {
+    "copySuccess": "✨ Copiado!",
+    "copyDescription": "Senha copiada para a área de transferência",
+    "error": "Erro",
+    "generateFirst": "Gere uma senha primeiro",
+    "copyFailed": "Falha ao copiar senha"
+  }
+}
